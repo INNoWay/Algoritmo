@@ -1,2 +1,2 @@
 # Algoritmo
-Arquivos de Algoritmos
+Arquivos Algoritmos
